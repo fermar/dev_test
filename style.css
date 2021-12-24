@@ -1,0 +1,10 @@
+* {
+    /* don't use '0px' or any other unit, if you set the value to zero */
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+
+index {
+    background-color: aquamarine;
+}
